@@ -1,0 +1,37 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.card {
+  padding: 1em;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+
+.read-the-docs {
+  color: #888;
+}
+
+.input-section {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.input-section input {
+  padding: 5px;
+  font-size: 16px;
+}
+
+.alert-message {
+  color: red;
+}
+
+.success-message {
+  color: green;
+}

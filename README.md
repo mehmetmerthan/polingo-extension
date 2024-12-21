@@ -20,7 +20,7 @@ Clicking on any word from the website or YouTube subtitles will bring up detaile
 ## Screenshots
 
 1. **Web Extension - Word Highlighting**  
-   ![Web Extension Screenshot](link-to-your-image)
+   ![Web Extension Screenshot](/src/assets/polingo-extension.png)
 
 ## Relationship with Other Platforms
 
